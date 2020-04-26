@@ -1,5 +1,8 @@
 "use strict";
 
+// Author: Daniel Barton
+// Description: Assigns drivers to car IDs for a given week.
+
 const nodemailer = require("nodemailer");
 const WeekSchedule = require("./WeekSchedule");
 const Utilities = require("../util/Utilities");

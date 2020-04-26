@@ -1,5 +1,8 @@
 "use-strict";
 
+// Author: Daniel Barton
+// Description: Utilities for TDA display modules.
+
 const shortHandToDayMap = {m: "monday", tu: "tuesday", w: "wednesday", tr: "thursday", f: "friday", sa: "saturday", su: "sunday"};
 
 function getDays(dayString) {

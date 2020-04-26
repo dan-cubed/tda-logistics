@@ -3,7 +3,7 @@
 
 <p>To run just execute the main.js file with required parameters:</p>
 
-<p>-n - The number of van IDs availiable.</p>
+<p>-n - The number of vehicle IDs availiable.</p>
 <p>-p - Path to the CSV containing all data.</p>
 <p>-f - Gmail account the email should be sent from.</p>
 <p>-w - Password for the gmail account.</p>
