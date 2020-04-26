@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/dan-cubed/tda-logistics/issues"
   },
-  "homepage": "https://github.com/dan-cubed/tda-logistics#readme"
+  "homepage": "https://github.com/dan-cubed/tda-logistics#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "minimist": "^1.2.5",
+    "nodemailer": "^6.4.6"
+  }
 }
